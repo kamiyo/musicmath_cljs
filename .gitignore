@@ -1,0 +1,4 @@
+node_modules
+.shadow-cljs
+.vscode
+public/js
